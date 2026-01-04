@@ -33,7 +33,7 @@ $ check_active_projects --list
 
 | ID | DIRECTORY | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- |
-| **001** | `~/Sync2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
+| **001** | `~/SYNC2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
 | **002** | `~/Spotseeker` | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
 | **003** | `~/Kavia.ai` | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
 | **004** | `~/AcademyAdv` | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
@@ -61,9 +61,8 @@ $ run_metrics.sh
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="lusiferxk stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusiferxk&theme=radical&hide_border=true&background=000000" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="lusiferxk stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusiferxk&layout=compact&theme=radical&hide_border=true&bg_color=000000" alt="lusiferxk languages" height="165" />
 </div>
 
 <br>
