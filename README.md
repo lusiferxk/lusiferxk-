@@ -33,7 +33,7 @@ $ check_active_projects --list
 
 | ID | DIRECTORY | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- |
-| **001** | `~/SYNC2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
+| **001** | `~/Sync2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
 | **002** | `~/Spotseeker` | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
 | **003** | `~/Kavia.ai` | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
 | **004** | `~/AcademyAdv` | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
