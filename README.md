@@ -36,6 +36,9 @@ $ check_active_projects --list
 | **001** | `~/SYNC2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
 | **002** | `~/Spotseeker` | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
 | **003** | `~/Kavia.ai` | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
+| **004** | `~/AcademyAdv` | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
+| **005** | `~/Ceylara` | Clothing Brand / E-commerce | [**ceylara.lk**](https://ceylara.lk) |
+| **006** | `~/Baihu` | Restaurant & Dining | [**baihu.lk**](https://baihu.lk) |
 
 <br>
 
