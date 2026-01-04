@@ -13,23 +13,23 @@
 </pre>
 </div>
 
-```bash
-# [SYSTEM_INFO]
-# ---------------------------------------------------
-# USER       : lusiferxk
-# ROLE       : Founder & Lead Engineer
-# WORKSPACE  : SYNC2.net
-# LOCATION   : Sri Lanka
-# STATUS     : Online
-# ---------------------------------------------------
+<pre style="background-color:#0d1117; color:#c9d1d9; border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+<span style="color:#79c0ff"># [SYSTEM_INFO]</span>
+<span style="color:#8b949e"># ---------------------------------------------------</span>
+<span style="color:#ff7b72">USER</span>       : lusiferxk
+<span style="color:#ff7b72">ROLE</span>       : Founder & Lead Engineer
+<span style="color:#ff7b72">WORKSPACE</span>  : SYNC2.net
+<span style="color:#ff7b72">LOCATION</span>   : Sri Lanka
+<span style="color:#ff7b72">STATUS</span>     : Online
+<span style="color:#8b949e"># ---------------------------------------------------</span>
 
-$ cat about_me.txt
+<span style="color:#25c2a0">$ cat about_me.txt</span>
 "I build immersive web experiences and scalable backend systems."
-```
+</pre>
 
-```bash
-$ check_active_projects --list
-```
+<br>
+
+<h3 align="left"><samp><b>$ check_active_projects --list</b></samp></h3>
 
 | ID | DIRECTORY | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- |
@@ -42,9 +42,7 @@ $ check_active_projects --list
 
 <br>
 
-```bash
-$ display_stack --icons
-```
+<h3 align="left"><samp><b>$ display_stack --icons</b></samp></h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=25c2a0" />
@@ -56,9 +54,7 @@ $ display_stack --icons
 
 <br>
 
-```bash
-$ run_metrics.sh
-```
+<h3 align="left"><samp><b>$ run_metrics.sh</b></samp></h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="lusiferxk stats" height="165"/>
