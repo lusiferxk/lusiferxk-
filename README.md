@@ -25,3 +25,48 @@
 
 $ cat about_me.txt
 "I build immersive web experiences and scalable backend systems."
+```
+
+```bash
+$ check_active_projects --list
+```
+
+| ID | DIRECTORY | DESCRIPTION | URL |
+| :--- | :--- | :--- | :--- |
+| **001** | `~/SYNC2` | Software & Marketing (Founder) | [**sync2.net**](https://sync2.net) |
+| **002** | `~/Spotseeker` | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
+| **003** | `~/Kavia.ai` | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
+
+<br>
+
+```bash
+$ display_stack --icons
+```
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/JavaScript-React-000000?style=for-the-badge&logo=react&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Web-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=25c2a0" />
+</div>
+
+<br>
+
+```bash
+$ run_metrics.sh
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=000000" alt="lusiferxk stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusiferxk&theme=radical&hide_border=true&background=000000" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/>_CONNECT_ON_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
