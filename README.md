@@ -43,16 +43,16 @@ STATUS     : "Building immersive web experiences."
   <img src="https://img.shields.io/badge/DB-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=25c2a0" />
 </div>
 
-<h3 align="left"><samp>lusiferxk@sync2:~$ ./show_metrics.sh --graphical</samp></h3>
+<!-- <h3 align="left"><samp>lusiferxk@sync2:~$ ./show_metrics.sh --graphical</samp></h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusiferxk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="languages" />
-</div>
+</div> -->
 
-<h3 align="left"><samp>lusiferxk@sync2:~$ ssh <a href="https://linkedin.com/in/your-linkedin">linkedin_connection</a></samp></h3>
+<h3 align="left"><samp>lusiferxk@sync2:~$ ssh <a href="https://www.facebook.com/lusiferxk/">facebook_connection</a></samp></h3>
 <div align="left">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.facebook.com/lusiferxk/">
     <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-25c2a0?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
