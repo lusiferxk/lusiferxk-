@@ -51,7 +51,7 @@ STATUS     : "Building immersive web experiences."
   <img src="https://img.shields.io/badge/AWS-Amplify-000000?style=for-the-badge&logo=alist&logoColor=25c2a0" />
   <img src="https://img.shields.io/badge/AWS-Route53-000000?style=for-the-badge&logo=amazonroute53&logoColor=25c2a0" />
   <img src="https://img.shields.io/badge/AWS-RDS-000000?style=for-the-badge&logo=googlecloudstorage&logoColor=25c2a0" />
-  <img src="https://img.shields.io/badge/Ops-DevOps-000000?style=for-the-badge&logo=infinityfree&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/Ops-DevOps-000000?style=for-the-badge&logo=internetcomputer&logoColor=25c2a0" />
 </div>
 
 <h3 align="left"><samp>lusiferxk@sync2:~$ ls -R ./connections/</samp></h3>
