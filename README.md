@@ -17,7 +17,7 @@
 <pre>
 USER       : lusiferxk
 ROLE       : Founder & Lead Engineer
-WORKSPACE  : SYNC2.net
+WORKSPACE  : sync2.net
 LOCATION   : Sri Lanka
 STATUS     : "Building immersive web experiences."
 </pre>
@@ -26,7 +26,7 @@ STATUS     : "Building immersive web experiences."
 
 | PERMISSIONS | OWNER | NAME | DESCRIPTION | URL |
 | :--- | :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | `self` | **SYNC2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
+| `drwxr-xr-x` | `self` | **Sync2** | Software & Marketing | [**sync2.net**](https://sync2.net) |
 | `drwxr-xr-x` | `admin`| **Spotseeker** | Ticketing Platform (LK) | [**spotseeker.lk**](https://spotseeker.lk) |
 | `drwxr-xr-x` | `root` | **Kavia.ai** | AI Development (USA) | [**kavia.ai**](https://kavia.ai) |
 | `drwxr-xr-x` | `root` | **AcademyAdv** | Academy of Adventure | [**aoa.lk**](https://aoa.lk) |
