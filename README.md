@@ -44,7 +44,7 @@ STATUS     : "Building immersive web experiences."
   
   <img src="https://img.shields.io/badge/DB-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=25c2a0" />
   <img src="https://img.shields.io/badge/DB-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=25c2a0" />
-  <img src="https://img.shields.io/badge/DB-SQL-000000?style=for-the-badge&logo=mysql&logoColor=25c2a0" />
+  <img src="https://img.shields.io/badge/DB-SQL-000000?style=for-the-badge&logo=sqlite&logoColor=25c2a0" />
   <br>
 
   <img src="https://img.shields.io/badge/Cloud-AWS-000000?style=for-the-badge&logo=googlecloud&logoColor=25c2a0" />
