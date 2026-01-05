@@ -43,16 +43,26 @@ STATUS     : "Building immersive web experiences."
   <img src="https://img.shields.io/badge/DB-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=25c2a0" />
 </div>
 
-<!-- <h3 align="left"><samp>lusiferxk@sync2:~$ ./show_metrics.sh --graphical</samp></h3>
+<h3 align="left"><samp>lusiferxk@sync2:~$ ls -R ./connections/</samp></h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lusiferxk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusiferxk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="languages" />
-</div> -->
-
-<h3 align="left"><samp>lusiferxk@sync2:~$ ssh <a href="https://www.facebook.com/lusiferxk/">facebook_connection</a></samp></h3>
+<p><b>./personal_profile:</b></p>
 <div align="left">
   <a href="https://www.facebook.com/lusiferxk/">
-    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-25c2a0?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/Facebook-%40lusiferxk-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lusiferxk/">
+    <img src="https://img.shields.io/badge/Instagram-%40lusiferxk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<p><b>./company_hq (SYNC2):</b></p>
+<div align="left">
+  <a href="https://www.facebook.com/sync2">
+    <img src="https://img.shields.io/badge/Facebook-SYNC2-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sync2">
+    <img src="https://img.shields.io/badge/Instagram-SYNC2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
